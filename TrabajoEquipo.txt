@@ -1,2 +1,5 @@
 Práctica de Git en Equipo
 ____________________________________
+
+Última actualización de mi parte
+_________________________________________
